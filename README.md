@@ -15,11 +15,13 @@ Plugin Installation: Download the zip file from [Important Links](#important lin
 * GBATemp Thread: [Click here](link)
 
 ## Socials and Contacts
+
+**H4x0rSpooky:**
 * `Discord:` Spooky#4886
 * `YouTube:` [H4x0rSpooky](https://www.youtube.com/channel/UC-SFdCwwq3H1wJNKCsKMGPw)
 * `GBATemp:` [H4x0rSpooky](https://gbatemp.net/members/h4x0rspooky.517131/)
 
-
+**FunkyGamer26:**
 * `Discord:` FunkyGamer26  (32) ( ͡° ͜ʖ ͡°)#4654
 * `YouTube:` [FunkyGamer26](https://www.youtube.com/channel/UCu_YHU4ZHWORABbD-aosqPg)
 
