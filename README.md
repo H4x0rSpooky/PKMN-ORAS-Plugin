@@ -14,15 +14,17 @@ Plugin Installation: Download the zip file from [Important Links](#important lin
 
 * GBATemp Thread: [Click here](link)
 
-## Credits and Contributors
-
-* Plugin was written by me
-
-* [@Nanquitas] for the Source of CTRPF(https://github.com/Nanquitas/)
-* [PabloMK7] for Helping with Plugin Matters(https://github.com/mariohackandglitch/)
-* [FunkyGamer26] for working with me(https://www.youtube.com/channel/UCu_YHU4ZHWORABbD-aosqPg)
-
 ## Socials and Contacts
 * `Discord:` Spooky#4886
 * `YouTube:` [H4x0rSpooky](https://www.youtube.com/channel/UC-SFdCwwq3H1wJNKCsKMGPw)
 * `GBATemp:` [H4x0rSpooky](https://gbatemp.net/members/h4x0rspooky.517131/)
+
+
+## Credits and Contributors
+
+* Plugin was written by me
+
+* [@Nanquitas](https://github.com/Nanquitas/) for the Source of CTRPF
+* [@PabloMK7](https://github.com/mariohackandglitch/) for Helping with Plugin Matters
+* [@FunkyGamer26](https://www.youtube.com/channel/UCu_YHU4ZHWORABbD-aosqPg) for working with me
+
