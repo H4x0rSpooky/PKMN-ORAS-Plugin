@@ -1,8 +1,8 @@
 
 
-##Intro
+## Intro
 **Pokémon ORAS CTRPF Plugin**
-> This is a CTRPF Plugin(.3gx) for Pokémon Omega Ruby & Alpha Sapphire.
+> This is a CTRPF Plugin (.3gx) for Pokémon Omega Ruby & Alpha Sapphire.
 
 ## Install
 Make sure you have a Custom Firmware installed on your Nintendo 3DS, if you don't you can't use this Plugin. [Guide](https://3ds.hacks.guide/) will help you through the CFW installation if you don't have it installed yet.
