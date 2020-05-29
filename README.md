@@ -21,6 +21,7 @@ Plugin Installation: Download the zip file from [Important Links](#important lin
 
 * Plugin was written by me
 
+**Thanks to**
 * [@Nanquitas](https://github.com/Nanquitas/) for the Source of CTRPF
 * [@PabloMK7](https://github.com/mariohackandglitch/) for Helping with Plugin Matters
 * [@FunkyGamer26](https://www.youtube.com/channel/UCu_YHU4ZHWORABbD-aosqPg) for working with me
