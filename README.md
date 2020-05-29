@@ -1,20 +1,20 @@
 ## Introduction
 **Pokémon ORAS Plugin**
 
-This is a free Plugin (.3gx) for Pokémon Omega Ruby & Alpha Sapphire.
+This is a Plugin for Pokémon Omega Ruby & Alpha Sapphire.
 > Updates will follow any time
 
-## Installation
+# Installation
 Make sure you have a Custom Firmware installed on your Nintendo 3DS, if you don't you can't use this Plugin. [Guide](https://3ds.hacks.guide/) will help you through the CFW installation if you don't have it installed yet.
 
-Plugin Installation: Download the zip file from [Important Links](#important links) or from the project itself and extract it on your PC. Insert your 3ds SD Card into your Computer and copy the whole `luma` folder on the root of it. Enable `Plugin Loader` in the Rosalina Menu and enter the Game. The Plugin should run now if the screen lights up in blue.
+Plugin Installation: Download the zip file from [Important Links](#important links) or from the project and extract it on your PC. Insert your 3ds SD Card into your Computer and copy the whole `luma` folder on the root of it. Enable `Plugin Loader` in the Rosalina Menu and enter the Game. The Plugin should run now if the screen lights up in blue.
 
-## Important Links
+# Important Links
 * Direct Download: [Click here](https://github.com/H4x0rSpooky/PKMN-ORAS-Plugin/archive/master.zip)
 
 * GBATemp Thread: [Click here](link)
 
-## Socials and Contacts
+# Socials and Contacts
 
 **H4x0rSpooky:**
 * `Discord:` Spooky#4886
@@ -25,11 +25,11 @@ Plugin Installation: Download the zip file from [Important Links](#important lin
 * `Discord:` FunkyGamer26  (32) ( ͡° ͜ʖ ͡°)#4654
 * `YouTube:` [FunkyGamer26](https://www.youtube.com/channel/UCu_YHU4ZHWORABbD-aosqPg)
 
-## Credits and Contributors
+# Credits and Contributors
 
-* Plugin was written by me
+Plugin was written by me
 
 **Thanks to**
-* [@Nanquitas](https://github.com/Nanquitas/) for the Source of CTRPF
-* [@PabloMK7](https://github.com/mariohackandglitch/) for Helping with Plugin Matters
-* [@FunkyGamer26](https://www.youtube.com/channel/UCu_YHU4ZHWORABbD-aosqPg) for working with me
+* [@Nanquitas](https://github.com/Nanquitas/) - CTRPluginFramework
+* [@PabloMK7](https://github.com/mariohackandglitch/) - Plugin Help
+* [@FunkyGamer26](https://www.youtube.com/channel/UCu_YHU4ZHWORABbD-aosqPg) - Partner
