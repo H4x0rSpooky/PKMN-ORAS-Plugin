@@ -10,7 +10,7 @@ Make sure you have a Custom Firmware installed on your Nintendo 3DS, if you don'
 Plugin Installation: Download the zip file from [Important Links](#important links) or from the project and extract it on your PC. Insert your 3ds SD Card into your Computer and copy the whole `luma` folder on the root of it. Enable `Plugin Loader` in the Rosalina Menu and enter the Game. The Plugin should run now if the screen lights up in blue.
 
 # Important Links
-* Direct Download: [Click here](https://github.com/H4x0rSpooky/PKMN-ORAS-Plugin/archive/master.zip)
+* Direct Download: [Click here](https://github.com/H4x0rSpooky/PKMN-ORAS-Plugin/raw/master/ORAS-Plugin.zip)
 
 * GBATemp Thread: [Click here](link)
 
@@ -30,6 +30,6 @@ Plugin Installation: Download the zip file from [Important Links](#important lin
 Plugin was written by me
 
 **Thanks to**
-* [@Nanquitas](https://github.com/Nanquitas/) - CTRPluginFramework
+* [@Nanquitas](https://github.com/Nanquitas/) - CTRPF itself
 * [@PabloMK7](https://github.com/mariohackandglitch/) - Plugin Help
 * [@FunkyGamer26](https://www.youtube.com/channel/UCu_YHU4ZHWORABbD-aosqPg) - Partner
