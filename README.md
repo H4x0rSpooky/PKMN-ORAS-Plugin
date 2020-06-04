@@ -7,7 +7,7 @@ This is a Plugin for Pokémon Omega Ruby & Alpha Sapphire.
 ## Installation
 Make sure you have a Custom Firmware installed on your Nintendo 3DS, if you don't you can't use this Plugin. [Guide](https://3ds.hacks.guide/) will help you through the CFW installation if you don't have it installed yet.
 
-Plugin Installation: Download the zip file from [Important Links](#important links) or from the project and extract it on your PC. Insert your 3ds SD Card into your Computer and copy the whole `luma` folder on the root of it. Enable `Plugin Loader` in the Rosalina Menu and enter the Game. The Plugin should run now if the screen lights up in blue.
+Plugin Installation: Download the zip file from [Important Links](#Important Links) or from the project and extract it on your PC. Insert your 3ds SD Card into your Computer and copy the whole `luma` folder on the root of it. Enable `Plugin Loader` in the Rosalina Menu and enter the Game. The Plugin should run now if the screen lights up in blue.
 
 ## Important Links
 * Direct Download: [Click here](https://github.com/H4x0rSpooky/PKMN-ORAS-Plugin/raw/master/ORAS.zip)
