@@ -30,6 +30,6 @@ Plugin Installation: Download the zip file from [Important Links](#important lin
 Plugin was written by me
 
 **Thanks to**
-* [@Nanquitas](https://github.com/Nanquitas/) - CTRPF & Plugin help
+* [@Nanquitas](https://github.com/Nanquitas/) - CTRPluginFramework & Plugin help
 * [@PabloMK7](https://github.com/mariohackandglitch/) - Plugin Help
 * [@FunkyGamer26](https://www.youtube.com/channel/UCu_YHU4ZHWORABbD-aosqPg) - Partner
