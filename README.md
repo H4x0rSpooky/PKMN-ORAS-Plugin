@@ -33,3 +33,4 @@ Plugin was written by me
 * [@Nanquitas](https://github.com/Nanquitas/) - CTRPluginFramework & Help
 * [@PabloMK7](https://github.com/mariohackandglitch/) - Plugin Help
 * [@FunkyGamer26](https://www.youtube.com/channel/UCu_YHU4ZHWORABbD-aosqPg) - Partner
+* [@PokeKnox](https://www.youtube.com/channel/UCq78HQLRQobs5EAhaz2Hj4A) - Beta Tester
