@@ -30,7 +30,7 @@ Plugin Installation: Download the zip file from the Important Links or from the 
 Plugin was written by me
 
 **Thanks to**
-* [@Nanquitas](https://github.com/Nanquitas/) - CTRPluginFramework & Help
+* [@Nanquitas](https://github.com/Nanquitas/) - The CTRPluginFramework Lib & Plugin Help
 * [@PabloMK7](https://github.com/mariohackandglitch/) - Plugin Help
 * [@FunkyGamer26](https://www.youtube.com/channel/UCu_YHU4ZHWORABbD-aosqPg) - Partner
 * [@PokeKnox](https://www.youtube.com/channel/UCq78HQLRQobs5EAhaz2Hj4A) - Beta Tester
