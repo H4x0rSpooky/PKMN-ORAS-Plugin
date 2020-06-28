@@ -12,7 +12,7 @@ Plugin Installation: Download the zip file from the Important Links or from the 
 ## Important Links
 * Direct Download: [Click here](https://github.com/H4x0rSpooky/PKMN-ORAS-Plugin/raw/master/ORAS.zip)
 
-* GBATemp Thread: [Click here](link)
+* Discord Server: [Click here](https://discord.gg/8Jr5dU6)
 
 ## Socials and Contacts
 
@@ -22,7 +22,6 @@ Plugin Installation: Download the zip file from the Important Links or from the 
 * `GBATemp:` [H4x0rSpooky](https://gbatemp.net/members/h4x0rspooky.517131/)
 
 **FunkyGamer26:**
-* `Discord:` FunkyGamer26  (32) ( ͡° ͜ʖ ͡°)#4654
 * `YouTube:` [FunkyGamer26](https://www.youtube.com/channel/UCu_YHU4ZHWORABbD-aosqPg)
 
 ## Credits and Contributors
@@ -30,7 +29,7 @@ Plugin Installation: Download the zip file from the Important Links or from the 
 Plugin was written by me
 
 **Thanks to**
-* [@Nanquitas](https://github.com/Nanquitas/) - The CTRPluginFramework Lib & Plugin Help
+* [@Nanquitas](https://github.com/Nanquitas/) - CTRPF and Help
 * [@PabloMK7](https://github.com/mariohackandglitch/) - Plugin Help
-* [@FunkyGamer26](https://www.youtube.com/channel/UCu_YHU4ZHWORABbD-aosqPg) - Partner
 * [@PokeKnox](https://www.youtube.com/channel/UCq78HQLRQobs5EAhaz2Hj4A) - Beta Tester
+* [@FunkyGamer26](https://www.youtube.com/channel/UCu_YHU4ZHWORABbD-aosqPg) - Partner
