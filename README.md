@@ -11,7 +11,7 @@ Plugin Installation: Download the zip file from the Important Links or from the 
 
 ## Important Links
 * Direct Download: [Click here](https://github.com/H4x0rSpooky/PKMN-ORAS-Plugin/raw/master/Release/luma/plugins/000400000011C400/ORAS.3gx)
-
+* GBATemp Thread: [Click here] (https://gbatemp.net/threads/release-oras-ctrpluginframework.568729/)
 * Discord Server: [Click here](https://discord.gg/8Jr5dU6)
 
 ## Socials and Contacts
