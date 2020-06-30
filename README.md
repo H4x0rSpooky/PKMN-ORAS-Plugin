@@ -17,7 +17,7 @@ Plugin Installation: Download the zip file from the Important Links or from the 
 ## Socials and Contacts
 
 **H4x0rSpooky:**
-* `Discord:` Spooky#4886
+* `Discord:` Spooky#4866
 * `YouTube:` [H4x0rSpooky](https://www.youtube.com/channel/UC-SFdCwwq3H1wJNKCsKMGPw)
 
 **FunkyGamer26:**
