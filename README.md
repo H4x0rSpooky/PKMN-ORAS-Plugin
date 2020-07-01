@@ -1,5 +1,5 @@
 ## Introduction
-**Pokémon ORAS Plugin**
+**Pokémon CTRPluginFramework**
 
 This is a Plugin for Pokémon Omega Ruby & Alpha Sapphire.
 > Updates will follow any time
@@ -10,7 +10,7 @@ Make sure you have a Custom Firmware installed on your Nintendo 3DS, if you don'
 Plugin Installation: Download the zip file from the Important Links or from the project and extract it on your PC. Insert your 3ds SD Card into your Computer and copy the whole `luma` folder on the root of it. Enable `Plugin Loader` in the Rosalina Menu and enter the Game. The Plugin should run now if the screen lights up in blue.
 
 ## Important Links
-* Direct Download: [Click here](https://github.com/H4x0rSpooky/PKMN-ORAS-Plugin/raw/master/Release/luma/plugins/000400000011C400/ORAS.3gx)
+* Download Link: [Click here](https://github.com/H4x0rSpooky/PKMN-ORAS-Plugin/raw/master/Release/luma/plugins/000400000011C400/ORAS.3gx)
 * GBATemp Thread: [Click here](https://gbatemp.net/threads/release-oras-ctrpluginframework.568729/)
 * Discord Server: [Click here](https://discord.gg/8Jr5dU6)
 
