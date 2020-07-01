@@ -2,6 +2,7 @@
 **Pokémon CTRPluginFramework**
 
 This is a Plugin for Pokémon Omega Ruby & Alpha Sapphire.
+(Other support will be added in the future!)
 > Updates will follow any time
 
 ## Installation
