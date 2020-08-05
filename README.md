@@ -1,7 +1,7 @@
 ## Introduction
 **Pokémon CTRPluginFramework**
 
-This is a Plugin for Pokémon Omega Ruby, Alpha Sapphire and XY is on it's way. (Other support will be added in the future!)
+This is a Plugin for Pokémon Omega Ruby, Alpha Sapphire and Pokémon X and Y support is on it's way!
 > Updates will follow any time
 
 ## Installation
