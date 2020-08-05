@@ -10,7 +10,7 @@ Make sure you have a Custom Firmware installed on your Nintendo 3DS, if you don'
 Plugin Installation: Download the zip file from the Important Links or from the project and extract it on your PC. Insert your 3ds SD Card into your Computer and copy the whole `luma` folder on the root of it. Enable `Plugin Loader` in the Rosalina Menu and enter the Game. The Plugin should run now if the screen lights up in blue.
 
 * This applies once the XY support is added
-> Small change: Additionally to the luma folder, you need to copy the boot.firm file on the root of your SD Card to run the Plugin!
+> Small change: Additionally to the luma folder, you will need to copy the `boot.firm` file on the root of your SD Card to run the Plugin properly!
 
 ## Important Links
 * Download Link: [Click here](https://github.com/H4x0rSpooky/PokemonCTRPluginFramework/releases)
