@@ -12,8 +12,8 @@ Plugin Installation: Download the zip file from the links below or from the proj
 Small change: Additionally to the luma folder, you need to copy the boot.firm file on the root of your SD Card to run the Plugin!
 
 ## Important Links
-* Download Link: [Click here](https://github.com/H4x0rSpooky/PokemonCTRPluginFramework/releases)
-* GBATemp Thread: [Click here](https://gbatemp.net/threads/release-oras-ctrpluginframework.568729/)
+* Download: [Click here](https://github.com/H4x0rSpooky/PokemonCTRPluginFramework/releases)
+* GBATemp: [Click here](https://gbatemp.net/threads/release-oras-ctrpluginframework.568729/)
 
 ## Socials and Contacts
 
@@ -33,4 +33,4 @@ Plugin was written by me
 * [@PabloMK7](https://github.com/mariohackandglitch/) - Plugin Help
 * [@PokeKnox](https://www.youtube.com/channel/UCq78HQLRQobs5EAhaz2Hj4A) - Beta Tester of v1
 * [@FunkyGamer26](https://www.youtube.com/channel/UCu_YHU4ZHWORABbD-aosqPg) - Partner, Codes
-* @Jerald - Partner, Codes
+* @Jerald - Partner, Codes (He quit the project)
