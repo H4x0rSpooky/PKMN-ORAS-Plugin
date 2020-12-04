@@ -3,6 +3,7 @@
 
 This is a Plugin for Pokémon Omega Ruby, Alpha Sapphire and newly XY!
 > Updates will follow any time
+* Only for the latest update of the Games!
 
 ## Installation
 Make sure you have a Custom Firmware installed on your Nintendo 3DS, if you don't you can't use this Plugin. This [Guide](https://3ds.hacks.guide/) will help you through the CFW installation if you don't have it installed yet.
