@@ -30,5 +30,5 @@ This plugin was written by me.
 * [@Nanquitas](https://github.com/Nanquitas/) - CTRPF and Help
 * [@PabloMK7](https://github.com/mariohackandglitch/) - Plugin Help
 * [@PokeKnox](https://www.youtube.com/channel/UCq78HQLRQobs5EAhaz2Hj4A) - Beta Tester of v0.0.1
-* [@FunkyGamer26](https://www.youtube.com/channel/UCu_YHU4ZHWORABbD-aosqPg) - Partner
-* @Jerald - Partner (He quit the project after v0.0.1)
+* [@FunkyGamer26](https://www.youtube.com/channel/UCu_YHU4ZHWORABbD-aosqPg) - Partner and Support
+* @Jerald/Codec J - Partner (He quit the project after v0.0.1)
