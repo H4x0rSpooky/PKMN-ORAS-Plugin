@@ -28,8 +28,8 @@ This plugin was written by me.
 
 **Thanks to**
 * [@FunkyGamer26](https://www.youtube.com/channel/UCu_YHU4ZHWORABbD-aosqPg) - Partner and Support
-* [@Nanquitas](https://github.com/Nanquitas) - CTRPF and Help
-* [@PabloMK7](https://github.com/mariohackandglitch) - Plugin Help
-* [@Anto726](https://github.com/Anto726) - Plugin Help
-* [@PokeKnox](https://www.youtube.com/channel/UCq78HQLRQobs5EAhaz2Hj4A) - Beta Tester of v0.0.1
-* @Jerald/Codec J - Partner (He quit the project after v0.0.1)
+* [@Nanquitas](https://github.com/Nanquitas) - CTRPF, Help
+* [@PabloMK7](https://github.com/mariohackandglitch) - Help
+* [@Anto726](https://github.com/Anto726) - RGB Theme, Help
+* [@PokeKnox](https://www.youtube.com/channel/UCq78HQLRQobs5EAhaz2Hj4A) - Beta Tester (v0.0.1)
+* @Jerald/Codec J - Partner (v0.0.1)
