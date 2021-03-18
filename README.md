@@ -31,6 +31,6 @@ This plugin was written by me.
 * [@Nanquitas](https://github.com/Nanquitas) - CTRPF, Help
 * [@PabloMK7](https://github.com/mariohackandglitch) - Plugin Help
 * [@Anto726](https://github.com/Anto726) - RGB Theme, Help
-* @Commander DK - Beta Helper
+* [@Commander DK](https://www.youtube.com/channel/UCn4YVGWUwgG41vGWuqfGakg) - Beta Helper
 * [@PokeKnox](https://www.youtube.com/channel/UCq78HQLRQobs5EAhaz2Hj4A) - Beta Tester (v0.0.1)
 * @Jerald/Codec J - Partner (v0.0.1)
