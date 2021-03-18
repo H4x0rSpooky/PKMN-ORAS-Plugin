@@ -27,9 +27,9 @@ Plugin Installation: Download the zip file from the links below and extract it o
 This plugin was written by me.
 
 **Thanks to**
-* [@FunkyGamer26](https://www.youtube.com/channel/UCu_YHU4ZHWORABbD-aosqPg) - Partner, Support
+* [@FunkyGamer26](https://www.youtube.com/channel/UCu_YHU4ZHWORABbD-aosqPg) - Codes, Partner
 * [@Nanquitas](https://github.com/Nanquitas) - CTRPF, Help
-* [@PabloMK7](https://github.com/mariohackandglitch) - Help
+* [@PabloMK7](https://github.com/mariohackandglitch) - Plugin Help
 * [@Anto726](https://github.com/Anto726) - RGB Theme, Help
 * @Commander DK - Beta Helper
 * [@PokeKnox](https://www.youtube.com/channel/UCq78HQLRQobs5EAhaz2Hj4A) - Beta Tester (v0.0.1)
